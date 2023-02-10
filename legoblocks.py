@@ -15,7 +15,7 @@ def legoBlocks(n, m):
         return dp[m] ** n
 
     total_case = case(n, m, numbers)
-    print("total_case:", total_case)
+    #print("total_case:", total_case)
     
     delete_case= 0
     for i in range(1, m):
