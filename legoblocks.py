@@ -26,5 +26,5 @@ def legoBlocks(n, m):
 
     return total_case - delete_case
 
-print(legoBlocks(n, m))
-#legoBlocks(n,m)
+
+legoBlocks(n,m)
