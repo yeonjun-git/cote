@@ -1,4 +1,4 @@
 # cote
 
-Just try my first commit and,,
-I will use it for upload that I practice any coding.
+This is my first commiting test that I've tried,,
+I will use it for uploading my coding tests.
