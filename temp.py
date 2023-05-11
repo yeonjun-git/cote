@@ -1,7 +1,7 @@
 import time 
 import pyautogui 
 
-# 1분 간격으로 180번 돌리면 3시간 동안은 사라질 수 있음 (해상도 1724 x 1117)
+
 
 cnt = 0
 
